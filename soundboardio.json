@@ -113,10 +113,6 @@
       "filename": "family gatherings.mp3"
     },
     {
-      "name": "Life is too short",
-      "filename": "life is too short.mp3"
-    },
-    {
       "name": "Fuck phone storage",
       "filename": "fuck phone storage.mp3"
     },
@@ -303,6 +299,10 @@
     {
       "name": "Work meetings",
       "filename": "work meetings.mp3"
+    },
+    {
+      "name": "Your job",
+      "filename": "your job.mp3"
     }
   ]
 }
