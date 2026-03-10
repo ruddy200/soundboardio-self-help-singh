@@ -1,0 +1,308 @@
+{
+  "name": "Masood Boomgaard motivation",
+  "shortName": "Masood Boomgaard",
+  "description": "",
+  "color": "#FF9933",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "ruddy",
+    "url": ""
+  },
+  "lang": "en",
+  "version": "0.0.1",
+  "icons": [
+    {
+      "src": "/icons/icon-48.png",
+      "sizes": "48x48",
+      "purpose": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+"tiles": [
+    {
+      "name": "Whatsapp groups",
+      "filename": "whatsapp groups.mp3"
+    },
+    {
+      "name": "Fuck your emails",
+      "filename": "fuck your emails.mp3"
+    },
+    {
+      "name": "Company party",
+      "filename": "company party.mp3"
+    },
+    {
+      "name": "Leave days",
+      "filename": "leave days.mp3"
+    },
+    {
+      "name": "Spreadsheets",
+      "filename": "spreadsheets.mp3"
+    },
+    {
+      "name": "Parking space",
+      "filename": "parking space.mp3"
+    },
+    {
+      "name": "Cover letters",
+      "filename": "cover letters.mp3"
+    },
+    {
+      "name": "Email server providers",
+      "filename": "email server providers.mp3"
+    },
+    {
+      "name": "Anxiety",
+      "filename": "anxiety.mp3"
+    },
+    {
+      "name": "Electricity",
+      "filename": "electricity.mp3"
+    },
+    {
+      "name": "Voice notes",
+      "filename": "voice notes.mp3"
+    },
+    {
+      "name": "Taxes",
+      "filename": "taxes.mp3"
+    },
+    {
+      "name": "Walk away from bullshit",
+      "filename": "walk away from bullshit.mp3"
+    },
+    {
+      "name": "Break up",
+      "filename": "break up.mp3"
+    },
+    {
+      "name": "Nothing matters",
+      "filename": "nothing matters.mp3"
+    },
+    {
+      "name": "Corporate jargon",
+      "filename": "corporate jargon.mp3"
+    },
+    {
+      "name": "Take shit",
+      "filename": "take shit.mp3"
+    },
+    {
+      "name": "Fuck your emails 2",
+      "filename": "fuck your emails 2.mp3"
+    },
+    {
+      "name": "Crypto",
+      "filename": "crypto.mp3"
+    },
+    {
+      "name": "Do nothing",
+      "filename": "do nothing.mp3"
+    },
+    {
+      "name": "New year 2",
+      "filename": "new year 2.mp3"
+    },
+    {
+      "name": "Family gatherings",
+      "filename": "family gatherings.mp3"
+    },
+    {
+      "name": "Life is too short",
+      "filename": "life is too short.mp3"
+    },
+    {
+      "name": "Fuck phone storage",
+      "filename": "fuck phone storage.mp3"
+    },
+    {
+      "name": "Yearly performance review",
+      "filename": "yearly performance review.mp3"
+    },
+    {
+      "name": "Fuck shopping mall",
+      "filename": "fuck shopping mall.mp3"
+    },
+    {
+      "name": "Work deadline",
+      "filename": "work deadline.mp3"
+    },
+    {
+      "name": "Parents and children",
+      "filename": "parents and children.mp3"
+    },
+    {
+      "name": "Turn signal",
+      "filename": "turn signal.mp3"
+    },
+    {
+      "name": "Client feedback",
+      "filename": "client feedback.mp3"
+    },
+    {
+      "name": "Put on headphones",
+      "filename": "put on headphones.mp3"
+    },
+    {
+      "name": "Excuses for shitty behaviour",
+      "filename": "excuses for shitty behaviour.mp3"
+    },
+    {
+      "name": "Feeling sad",
+      "filename": "feeling sad.mp3"
+    },
+    {
+      "name": "New year 3",
+      "filename": "new year 3.mp3"
+    },
+    {
+      "name": "New year",
+      "filename": "new year.mp3"
+    },
+    {
+      "name": "Bad day give up",
+      "filename": "bad day give up.mp3"
+    },
+    {
+      "name": "Expectations",
+      "filename": "expectations.mp3"
+    },
+    {
+      "name": "UFO",
+      "filename": "UFO.mp3"
+    },
+    {
+      "name": "Be idiot resistant",
+      "filename": "be idiot resistant.mp3"
+    },
+    {
+      "name": "Always do less",
+      "filename": "always do less.mp3"
+    },
+    {
+      "name": "Don't pick up",
+      "filename": "don't pick up.mp3"
+    },
+    {
+      "name": "Imposter syndrome",
+      "filename": "imposter syndrome.mp3"
+    },
+    {
+      "name": "Stop working hard",
+      "filename": "stop working hard.mp3"
+    },
+    {
+      "name": "Work is feeling",
+      "filename": "work is feeling.mp3"
+    },
+    {
+      "name": "Bare minimum 2",
+      "filename": "bare minimum 2.mp3"
+    },
+    {
+      "name": "Past mistakes",
+      "filename": "past mistakes.mp3"
+    },
+    {
+      "name": "Work hours   boundaries",
+      "filename": "work hours - boundaries.mp3"
+    },
+    {
+      "name": "Past mistakes 2",
+      "filename": "past mistakes 2.mp3"
+    },
+    {
+      "name": "Haters",
+      "filename": "haters.mp3"
+    },
+    {
+      "name": "Holiday spirit",
+      "filename": "holiday spirit.mp3"
+    },
+    {
+      "name": "Love",
+      "filename": "love.mp3"
+    },
+    {
+      "name": "Be your true self",
+      "filename": "be your true self.mp3"
+    },
+    {
+      "name": "Stop worrying",
+      "filename": "stop worrying.mp3"
+    },
+    {
+      "name": "Stop worrying 2",
+      "filename": "stop worrying 2.mp3"
+    },
+    {
+      "name": "5 year plan",
+      "filename": "5 year plan.mp3"
+    },
+    {
+      "name": "Not the problem",
+      "filename": "not the problem.mp3"
+    },
+    {
+      "name": "Mental health",
+      "filename": "mental health.mp3"
+    },
+    {
+      "name": "Fuck off to people",
+      "filename": "fuck off to people.mp3"
+    },
+    {
+      "name": "Birthday",
+      "filename": "birthday.mp3"
+    },
+    {
+      "name": "Hawaii pizza",
+      "filename": "hawaii pizza.mp3"
+    },
+    {
+      "name": "Fuck this year",
+      "filename": "fuck this year.mp3"
+    },
+    {
+      "name": "Just chill, no one knows what is going on",
+      "filename": "just chill, no one knows what is going on.mp3"
+    },
+    {
+      "name": "Teambuilding",
+      "filename": "teambuilding.mp3"
+    },
+    {
+      "name": "Company's bitch",
+      "filename": "company's bitch.mp3"
+    },
+    {
+      "name": "Conversation should be avoided",
+      "filename": "conversation should be avoided.mp3"
+    },
+    {
+      "name": "Have some fun",
+      "filename": "have some fun.mp3"
+    },
+    {
+      "name": "Stay in your lane 2",
+      "filename": "stay in your lane 2.mp3"
+    },
+    {
+      "name": "Stay in your lane",
+      "filename": "stay in your lane.mp3"
+    },
+    {
+      "name": "Bare minimum is best   work",
+      "filename": "bare minimum is best - work.mp3"
+    },
+    {
+      "name": "Underwear",
+      "filename": "underwear.mp3"
+    }
+  ]
+}
