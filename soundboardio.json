@@ -1,6 +1,6 @@
 {
-  "name": "Masood Boomgaard motivation",
-  "shortName": "Masood Boomgaard",
+  "name": "Self-help Singh",
+  "shortName": "Self-help Singh - Masood Boomgaard",
   "description": "",
   "color": "#FF9933",
   "rootUrl": "sounds/",
@@ -303,6 +303,10 @@
     {
       "name": "Underwear",
       "filename": "underwear.mp3"
+    },
+    {
+      "name": "Work meetings",
+      "filename": "work meetings.mp3"
     }
   ]
 }
